@@ -1,0 +1,100 @@
+// @font-face {
+// 	font-family: 'Bebas Neue Regular ';
+// 	src: url('fonts/BebasNeue Book.eot');
+// 	src: local('☺'), url('../fonts/BebasNeue Book.woff') format('woff'), url('../fonts/BebasNeue Book.ttf') format('truetype'), url('fonts/BebasNeue Book.svg') format('svg');
+// 	font-weight: normal;
+// 	font-style: normal;
+// }
+
+// @font-face {
+//     font-family: 'Bebas Neue Book';
+//     src: local('../fonts/Bebas Neue Book'), local('../fonts/BebasNeueBook'),
+//     url('fonts/bebasneuebook.woff2') format('woff2'), 
+//     url('fonts/bebasneuebook.woff') format('woff'),
+//     url('fonts/bebasneuebook.ttf') format('truetype');
+//     font-weight: 300;
+//     font-style: normal;
+// }
+
+// @font-face {
+//     font-family: 'Noto Sans';
+//     src: local('Noto Sans'), local('NotoSans'),
+//       url('notosans.woff2') format('woff2'),
+//      url('notosans.woff') format('woff'),
+//     url('notosans.ttf') format('truetype');
+//     font-weight: 400;
+//     font-style: normal;
+// }
+
+  
+@font-face {
+    font-family: "BebasNeue";
+    font-display: swap;
+    src: url("../fonts/BebasNeue Bold.woff") format("woff"), url("../fonts/BebasNeue Bold.woff2") format("woff2");
+    font-weight: 700;
+    font-style: bold;
+  }
+  
+  @font-face {
+    font-family: "BebasNeue";
+    font-display: swap;
+    src: url("../fonts/BebasNeue Book.woff") format("woff"), url("../fonts/BebasNeue Book.woff2") format("woff2");
+    font-weight: 300;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: "BebasNeue";
+    font-display: swap;
+    src: url("../fonts/BebasNeue Light.woff") format("woff"), url("../fonts/BebasNeue Light.woff2") format("woff2");
+    font-weight: 200;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: "BebasNeue";
+    font-display: swap;
+    src: url("../fonts/BebasNeue Thin.woff") format("woff"), url("../fonts/BebasNeue Thin.woff2") format("woff2");
+    font-weight: 100;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: "NotoSans";
+    font-display: swap;
+    src: url("../fonts/NotoSans-Bold.woff") format("woff"), url("../fonts/NotoSans-Bold.woff2") format("woff2");
+    font-weight: 700;
+    font-style: bold;
+  }
+  
+  @font-face {
+    font-family: "NotoSans";
+    font-display: swap;
+    src: url("../fonts/NotoSans-BoldItalic.woff") format("woff"), url("../fonts/NotoSans-BoldItalic.woff2") format("woff2");
+    font-weight: 700;
+    font-style: italic;
+  }
+  
+  @font-face {
+    font-family: "BebasNeue";
+    font-display: swap;
+    src: url("../fonts/BebasNeue Regular.woff") format("woff"), url("../fonts/BebasNeue Regular.woff2") format("woff2");
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: "NotoSans";
+    font-display: swap;
+    src: url("../fonts/NotoSans-Italic.woff") format("woff"), url("../fonts/NotoSans-Italic.woff2") format("woff2");
+    font-weight: 400;
+    font-style: italic;
+  }
+  
+  @font-face {
+    font-family: "NotoSans";
+    font-display: swap;
+    src: url("../fonts/NotoSans-Regular.woff") format("woff"), url("../fonts/NotoSans-Regular.woff2") format("woff2");
+    font-weight: 400;
+    font-style: normal;
+  }
